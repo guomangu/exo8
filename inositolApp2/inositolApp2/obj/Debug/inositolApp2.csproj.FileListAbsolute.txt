@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\bin\Debug\inositolApp2.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\bin\Debug\inositolApp2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\bin\Debug\inositolApp2.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\obj\Debug\inositolApp2.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\obj\Debug\inositolApp2.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\obj\Debug\inositolApp2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\inositolApp2\inositolApp2\obj\Debug\inositolApp2.pdb

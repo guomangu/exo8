@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\bin\Debug\passifloreApp1.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\bin\Debug\passifloreApp1.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\bin\Debug\passifloreApp1.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\obj\Debug\passifloreApp1.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\obj\Debug\passifloreApp1.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\obj\Debug\passifloreApp1.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\passifloreApp1\passifloreApp1\obj\Debug\passifloreApp1.pdb

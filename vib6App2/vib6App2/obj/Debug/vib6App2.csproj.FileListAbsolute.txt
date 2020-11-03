@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\obj\Debug\vib6App2.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\bin\Debug\vib6App2.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\bin\Debug\vib6App2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\bin\Debug\vib6App2.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\obj\Debug\vib6App2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\vib6App2\vib6App2\obj\Debug\vib6App2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\bin\Debug\melisseApp1.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\bin\Debug\melisseApp1.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\bin\Debug\melisseApp1.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\obj\Debug\melisseApp1.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\obj\Debug\melisseApp1.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\obj\Debug\melisseApp1.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\melisseApp1\melisseApp1\obj\Debug\melisseApp1.pdb

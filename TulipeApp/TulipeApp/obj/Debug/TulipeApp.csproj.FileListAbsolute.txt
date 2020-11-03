@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\obj\Debug\TulipeApp.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\obj\Debug\TulipeApp.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\bin\Debug\TulipeApp.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\bin\Debug\TulipeApp.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\bin\Debug\TulipeApp.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\obj\Debug\TulipeApp.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\TulipeApp\TulipeApp\obj\Debug\TulipeApp.pdb

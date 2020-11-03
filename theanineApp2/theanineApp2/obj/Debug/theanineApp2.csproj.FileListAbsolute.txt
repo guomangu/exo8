@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\bin\Debug\theanineApp2.exe.config
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\bin\Debug\theanineApp2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\bin\Debug\theanineApp2.pdb
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\obj\Debug\theanineApp2.csprojAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\obj\Debug\theanineApp2.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\obj\Debug\theanineApp2.exe
+C:\Users\Stagiaire\Desktop\projecteur\algogodanse\theanineApp2\theanineApp2\obj\Debug\theanineApp2.pdb
